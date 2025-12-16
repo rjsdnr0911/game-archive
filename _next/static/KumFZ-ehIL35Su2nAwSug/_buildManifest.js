@@ -1,7 +1,12 @@
 self.__BUILD_MANIFEST = {
   "__rewrites": {
     "afterFiles": [],
-    "beforeFiles": [],
+    "beforeFiles": [
+      {
+        "source": "/game-archive//_next/:path+",
+        "destination": "/game-archive/_next/:path+"
+      }
+    ],
     "fallback": []
   },
   "sortedPages": [
