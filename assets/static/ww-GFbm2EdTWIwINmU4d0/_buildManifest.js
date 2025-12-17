@@ -3,8 +3,8 @@ self.__BUILD_MANIFEST = {
     "afterFiles": [],
     "beforeFiles": [
       {
-        "source": "/game-archive//_next/:path+",
-        "destination": "/game-archive/_next/:path+"
+        "source": "/game-archive//assets/:path+",
+        "destination": "/game-archive/assets/:path+"
       }
     ],
     "fallback": []
