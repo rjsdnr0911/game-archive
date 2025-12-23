@@ -1,4 +1,4 @@
-:HL["https://rjsdnr0911.github.io/game-archive/_next/static/chunks/ce67d205e59291b2.css","style"]
+:HL["https://rjsdnr0911.github.io/game-archive/_next/static/chunks/0348bdd8b6ae7bc4.css","style"]
 :HL["https://rjsdnr0911.github.io/game-archive/_next/static/media/0acc7fdf55eb3220-s.p.532ccaa1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["https://rjsdnr0911.github.io/game-archive/_next/static/media/278cbb97e75e04e2-s.p.2ce9a157.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["https://rjsdnr0911.github.io/game-archive/_next/static/media/3206eb66b875a5b3-s.p.e2b99870.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -6,4 +6,4 @@
 :HL["https://rjsdnr0911.github.io/game-archive/_next/static/media/a079e02bba5bf7ab-s.p.7367eab7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["https://rjsdnr0911.github.io/game-archive/_next/static/media/a10c617c9026098c-s.p.ca7c307b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["https://rjsdnr0911.github.io/game-archive/_next/static/media/d23f31b94ad01e54-s.p.4b0b0c7e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"buildId":"1s-FkDYuj7L6fYZi5gETP","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"_55jlqru74JW-njPlzme2","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
